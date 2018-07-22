@@ -1,0 +1,7 @@
+keras
+h5py
+tensorflow
+scipy
+pillow
+imageio
+tqdm
